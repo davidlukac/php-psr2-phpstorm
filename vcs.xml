@@ -1,0 +1,5 @@
+<application>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/dev/drupal/_drupal-vm/virgin/docroot/profiles/site_installer/modules/_patches" />
+  </component>
+</application>

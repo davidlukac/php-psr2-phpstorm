@@ -1,0 +1,9 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SEARCH_SCOPE">
+      <SearchScope scope-name="Current File" type="CUSTOM">
+        <moduleName>company_registry</moduleName>
+      </SearchScope>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,34 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="properties" type="Bash" />
+      <mapping pattern="*.ini.dist" type="Ini" />
+      <mapping ext="info" type="Ini" />
+      <mapping pattern="*.admin.inc" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="drush" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern=".token" type="PLAIN_TEXT" />
+      <mapping pattern=".docker-compose-env" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="slack_settings" type="PLAIN_TEXT" />
+      <mapping pattern=".github_changelog_generator" type="PLAIN_TEXT" />
+      <mapping pattern="ssh-config" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".python-version" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="virgin_search_cron_reconnect" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="installed" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="make" type="YAML" />
+      <mapping ext="dist" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

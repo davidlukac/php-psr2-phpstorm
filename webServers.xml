@@ -1,0 +1,81 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="273bdc3c-4eca-47b3-8c0a-0515d998541e" name="Virgin.com" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8528b7b5-79f5-47ba-a7c8-4ac152db8bb9" name="Cloudinary.DD" url="http://cloudinary.dd:8083">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="229c2bcb-82b5-489a-be0a-744acc1ba63f" name="fiesta.dd" url="http://fiesta.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="75e8d407-678b-48ce-ba0c-6ed57295d384" name="lush-caas.dd" url="http://lush-caas.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6ac5b0a5-f0cb-4838-97bb-b961213eb0bf" name="ics.dd" url="http://ics.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="923ed890-65c0-4e9a-90da-e2162ba96920" name="Droop.dd" url="http://droop.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4aa51b5a-7215-402f-a932-9291bccaa1e3" name="training.dd" url="http://training.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="98f6f661-fa0d-4239-bc7d-cf50134e9549" name="devbooster.dd" url="http://devbooster.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="119c4961-65b3-494c-a236-fcdb05efd141" name="wh.dd" url="http://wh.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="bf7b45a2-8bf5-4d08-b3d6-20884364ebf6" name="virgin.dev" url="http://virgin.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="b834186f-0f10-4e6e-9ac9-ea554c8ee177" name="davidlukac.dd" url="http://davidlukac.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2dbec8ac-1464-4e8c-8219-2e0717a2add1" name="INPS Help" url="http://inpshelp.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="29895bc0-731f-4d5d-80fe-7734005e99e1" name="SDA-host-test" url="http://sda-host-test.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="356c9748-ff90-4451-b005-6d18f6849416" name="Drupal8 Headless" url="http://drupal8.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3792aa08-dbc7-4d6d-9b87-e37bf0b766f5" name="Drupal.sk" url="http://drupalsk.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d54566b4-003a-4287-bb7a-2d5baae66305" name="apachesolr.local" url="http://apachesolr.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5801b174-5ec7-4646-84b7-db64543ef675" name="Meta.dd" url="http://meta.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e4153954-b0be-47dc-92d9-0a3ad4d714a4" name="D8" url="http://d8.dd:8083">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9d657524-2d6d-4ac3-a904-b76b0f92d840" name="bbr" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a3e3259e-6643-4f13-bac8-8073e2f5648e" name="drpizza" url="http://drpizza.dd:8083">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f9c6864f-2b0f-4155-8ca2-a727e496691c" name="sf" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="55d6ee67-2a8e-4594-953f-818352c4ae41" name="Dockerezplatform_web.docker" url="http://dockerezplatform_web.docker/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e0833f93-29aa-4766-a0ca-9805a58b60e7" name="nmh" url="http://nmh.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="dc0f8e64-9506-446c-8603-ace4bd345879" name="Docker-local-Wodby" url="http://localhost:8000/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="355d9d1c-ae94-4d7e-87cd-ff02cb36c25d" name="localhost:8000" url="http://localhost:8000/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

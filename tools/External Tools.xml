@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="MacDown" description="MarkDown editor" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/MacDown.app" />
+      <option name="PARAMETERS" value="$FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="/Applications/MacDown.app" />
+    </exec>
+  </tool>
+  <tool name="Atom" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Atom.app" />
+      <option name="PARAMETERS" value="$FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents" />
+    </exec>
+  </tool>
+</toolSet>
